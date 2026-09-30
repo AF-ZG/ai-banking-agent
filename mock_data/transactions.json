@@ -1,0 +1,502 @@
+[
+  {
+    "id": "TXN20260701",
+    "date": "2026-07-02",
+    "time": "08:32",
+    "type": "支出",
+    "category": "餐饮",
+    "amount": 45.5,
+    "counterparty": "海底捞火锅(望京店)",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260702",
+    "date": "2026-07-03",
+    "time": "19:15",
+    "type": "支出",
+    "category": "购物",
+    "amount": 899.0,
+    "counterparty": "京东商城",
+    "channel": "网银支付"
+  },
+  {
+    "id": "TXN20260703",
+    "date": "2026-07-05",
+    "time": "10:00",
+    "type": "收入",
+    "category": "工资",
+    "amount": 18500.0,
+    "counterparty": "XX科技有限公司",
+    "channel": "代发工资"
+  },
+  {
+    "id": "TXN20260704",
+    "date": "2026-07-08",
+    "time": "12:40",
+    "type": "支出",
+    "category": "餐饮",
+    "amount": 32.0,
+    "counterparty": "麦当劳(中关村店)",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260705",
+    "date": "2026-07-10",
+    "time": "09:05",
+    "type": "支出",
+    "category": "交通",
+    "amount": 6.0,
+    "counterparty": "北京地铁",
+    "channel": "NFC刷卡"
+  },
+  {
+    "id": "TXN20260706",
+    "date": "2026-07-12",
+    "time": "20:30",
+    "type": "支出",
+    "category": "娱乐",
+    "amount": 128.0,
+    "counterparty": "万达影城",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260707",
+    "date": "2026-07-15",
+    "time": "14:20",
+    "type": "支出",
+    "category": "购物",
+    "amount": 459.0,
+    "counterparty": "优衣库官方旗舰店",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260708",
+    "date": "2026-07-18",
+    "time": "08:50",
+    "type": "支出",
+    "category": "医疗",
+    "amount": 236.5,
+    "counterparty": "协和医院",
+    "channel": "刷卡"
+  },
+  {
+    "id": "TXN20260709",
+    "date": "2026-07-20",
+    "time": "18:00",
+    "type": "支出",
+    "category": "住房",
+    "amount": 4500.0,
+    "counterparty": "房租-房东刘女士",
+    "channel": "转账"
+  },
+  {
+    "id": "TXN20260710",
+    "date": "2026-07-25",
+    "time": "11:30",
+    "type": "支出",
+    "category": "教育",
+    "amount": 1200.0,
+    "counterparty": "得到App课程",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260801",
+    "date": "2026-08-01",
+    "time": "09:12",
+    "type": "支出",
+    "category": "餐饮",
+    "amount": 58.0,
+    "counterparty": "星巴克(国贸店)",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260802",
+    "date": "2026-08-03",
+    "time": "21:45",
+    "type": "支出",
+    "category": "娱乐",
+    "amount": 268.0,
+    "counterparty": "Steam游戏平台",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260803",
+    "date": "2026-08-05",
+    "time": "10:00",
+    "type": "收入",
+    "category": "工资",
+    "amount": 18500.0,
+    "counterparty": "XX科技有限公司",
+    "channel": "代发工资"
+  },
+  {
+    "id": "TXN20260804",
+    "date": "2026-08-08",
+    "time": "16:30",
+    "type": "支出",
+    "category": "交通",
+    "amount": 152.0,
+    "counterparty": "滴滴出行",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260805",
+    "date": "2026-08-10",
+    "time": "13:20",
+    "type": "支出",
+    "category": "购物",
+    "amount": 1299.0,
+    "counterparty": "天猫超市",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260806",
+    "date": "2026-08-12",
+    "time": "07:55",
+    "type": "支出",
+    "category": "餐饮",
+    "amount": 25.0,
+    "counterparty": "永和大王",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260807",
+    "date": "2026-08-15",
+    "time": "19:40",
+    "type": "支出",
+    "category": "餐饮",
+    "amount": 156.0,
+    "counterparty": "西贝莜面村",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260808",
+    "date": "2026-08-18",
+    "time": "02:35",
+    "type": "支出",
+    "category": "购物",
+    "amount": 6899.0,
+    "counterparty": "未知境外商户",
+    "channel": "网银支付"
+  },
+  {
+    "id": "TXN20260809",
+    "date": "2026-08-20",
+    "time": "18:00",
+    "type": "支出",
+    "category": "住房",
+    "amount": 4500.0,
+    "counterparty": "房租-房东刘女士",
+    "channel": "转账"
+  },
+  {
+    "id": "TXN20260810",
+    "date": "2026-08-22",
+    "time": "15:10",
+    "type": "支出",
+    "category": "医疗",
+    "amount": 89.0,
+    "counterparty": "老百姓大药房",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260811",
+    "date": "2026-08-28",
+    "time": "11:00",
+    "type": "收入",
+    "category": "理财收益",
+    "amount": 356.2,
+    "counterparty": "稳健添利30天",
+    "channel": "理财赎回收益"
+  },
+  {
+    "id": "TXN20260901",
+    "date": "2026-09-01",
+    "time": "08:20",
+    "type": "支出",
+    "category": "交通",
+    "amount": 6.0,
+    "counterparty": "北京地铁",
+    "channel": "NFC刷卡"
+  },
+  {
+    "id": "TXN20260902",
+    "date": "2026-09-03",
+    "time": "12:30",
+    "type": "支出",
+    "category": "餐饮",
+    "amount": 42.0,
+    "counterparty": "眉州东坡",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260903",
+    "date": "2026-09-05",
+    "time": "10:00",
+    "type": "收入",
+    "category": "工资",
+    "amount": 18500.0,
+    "counterparty": "XX科技有限公司",
+    "channel": "代发工资"
+  },
+  {
+    "id": "TXN20260904",
+    "date": "2026-09-07",
+    "time": "20:15",
+    "type": "支出",
+    "category": "购物",
+    "amount": 569.0,
+    "counterparty": "拼多多",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260905",
+    "date": "2026-09-10",
+    "time": "09:40",
+    "type": "支出",
+    "category": "教育",
+    "amount": 899.0,
+    "counterparty": "极客时间专栏",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260906",
+    "date": "2026-09-12",
+    "time": "18:50",
+    "type": "支出",
+    "category": "娱乐",
+    "amount": 198.0,
+    "counterparty": "环球影城门票",
+    "channel": "快捷支付"
+  },
+  {
+    "id": "TXN20260907",
+    "date": "2026-09-15",
+    "time": "13:05",
+    "type": "支出",
+    "category": "餐饮",
+    "amount": 76.0,
+    "counterparty": "必胜客(五道口店)",
+    "channel": "扫码支付"
+  },
+  {
+    "id": "TXN20260908",
+    "date": "2026-09-18",
+    "time": "10:25",
+    "type": "支出",
+    "category": "医疗",
+    "amount": 320.0,
+    "counterparty": "体检中心",
+    "channel": "刷卡"
+  },
+  {
+    "id": "TXN20260909",
+    "date": "2026-09-20",
+    "time": "18:00",
+    "type": "支出",
+    "category": "住房",
+    "amount": 4500.0,
+    "counterparty": "房租-房东刘女士",
+    "channel": "转账"
+  },
+  {
+    "id": "TXN20260910",
+    "date": "2026-09-23",
+    "time": "03:12",
+    "type": "支出",
+    "category": "转账",
+    "amount": 8000.0,
+    "counterparty": "陌生账户-王**",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260911",
+    "date": "2026-09-24",
+    "time": "22:50",
+    "type": "支出",
+    "category": "娱乐",
+    "amount": 68.0,
+    "counterparty": "爱奇艺会员",
+    "channel": "代扣"
+  },
+  {
+    "id": "TXN20260927033",
+    "date": "2026-09-27",
+    "time": "10:53",
+    "type": "支出",
+    "category": "转账",
+    "amount": 100.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260927034",
+    "date": "2026-09-27",
+    "time": "11:10",
+    "type": "支出",
+    "category": "转账",
+    "amount": 200.0,
+    "counterparty": "王五",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260927035",
+    "date": "2026-09-27",
+    "time": "11:10",
+    "type": "支出",
+    "category": "转账",
+    "amount": 200.0,
+    "counterparty": "王五",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260927036",
+    "date": "2026-09-27",
+    "time": "11:10",
+    "type": "支出",
+    "category": "转账",
+    "amount": 8000.0,
+    "counterparty": "陌生人",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260927037",
+    "date": "2026-09-27",
+    "time": "11:15",
+    "type": "支出",
+    "category": "转账",
+    "amount": 300.0,
+    "counterparty": "王五",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260927038",
+    "date": "2026-09-27",
+    "time": "16:12",
+    "type": "支出",
+    "category": "转账",
+    "amount": 200.0,
+    "counterparty": "王五",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260927039",
+    "date": "2026-09-27",
+    "time": "16:12",
+    "type": "支出",
+    "category": "转账",
+    "amount": 200.0,
+    "counterparty": "王五",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260927040",
+    "date": "2026-09-27",
+    "time": "16:12",
+    "type": "支出",
+    "category": "转账",
+    "amount": 8000.0,
+    "counterparty": "陌生人",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260928041",
+    "date": "2026-09-28",
+    "time": "17:13",
+    "type": "支出",
+    "category": "转账",
+    "amount": 100.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260928042",
+    "date": "2026-09-28",
+    "time": "19:49",
+    "type": "支出",
+    "category": "转账",
+    "amount": 100.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260928043",
+    "date": "2026-09-28",
+    "time": "21:26",
+    "type": "支出",
+    "category": "转账",
+    "amount": 10.0,
+    "counterparty": "转三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260929044",
+    "date": "2026-09-29",
+    "time": "09:37",
+    "type": "支出",
+    "category": "转账",
+    "amount": 100.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260929045",
+    "date": "2026-09-29",
+    "time": "09:38",
+    "type": "支出",
+    "category": "转账",
+    "amount": 10.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260929046",
+    "date": "2026-09-29",
+    "time": "09:49",
+    "type": "支出",
+    "category": "转账",
+    "amount": 100.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260929047",
+    "date": "2026-09-29",
+    "time": "09:53",
+    "type": "支出",
+    "category": "转账",
+    "amount": 100.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260929048",
+    "date": "2026-09-29",
+    "time": "09:54",
+    "type": "支出",
+    "category": "转账",
+    "amount": 10000.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260929049",
+    "date": "2026-09-29",
+    "time": "16:11",
+    "type": "支出",
+    "category": "转账",
+    "amount": 100.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  },
+  {
+    "id": "TXN20260929050",
+    "date": "2026-09-29",
+    "time": "16:16",
+    "type": "支出",
+    "category": "转账",
+    "amount": 10.0,
+    "counterparty": "张三",
+    "channel": "网银转账"
+  }
+]

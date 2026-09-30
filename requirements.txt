@@ -1,0 +1,8 @@
+mcp>=2.0.0
+openai>=1.40.0
+python-dotenv>=1.0.0
+
+# 模拟银行服务（mock_bank.py）依赖
+fastapi>=0.110.0
+uvicorn>=0.27.0
+requests>=2.31.0

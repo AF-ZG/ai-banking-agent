@@ -1,0 +1,10 @@
+[
+  {"id": "DED001", "subscription_id": "SUB001", "service_name": "爱奇艺黄金VIP会员", "date": "2026-09-15", "amount": 25.00, "status": "扣款成功"},
+  {"id": "DED002", "subscription_id": "SUB002", "service_name": "网易云音乐黑胶VIP", "date": "2026-09-08", "amount": 15.00, "status": "扣款成功"},
+  {"id": "DED003", "subscription_id": "SUB003", "service_name": "iCloud+ 200GB存储", "date": "2026-09-02", "amount": 21.00, "status": "扣款成功"},
+  {"id": "DED004", "subscription_id": "SUB004", "service_name": "健身房月卡", "date": "2026-09-20", "amount": 299.00, "status": "扣款成功"},
+  {"id": "DED005", "subscription_id": "SUB001", "service_name": "爱奇艺黄金VIP会员", "date": "2026-08-15", "amount": 25.00, "status": "扣款成功"},
+  {"id": "DED006", "subscription_id": "SUB002", "service_name": "网易云音乐黑胶VIP", "date": "2026-08-08", "amount": 15.00, "status": "扣款成功"},
+  {"id": "DED007", "subscription_id": "SUB003", "service_name": "iCloud+ 200GB存储", "date": "2026-08-02", "amount": 21.00, "status": "扣款成功"},
+  {"id": "DED008", "subscription_id": "SUB004", "service_name": "健身房月卡", "date": "2026-08-20", "amount": 299.00, "status": "扣款成功"}
+]

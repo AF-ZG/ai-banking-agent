@@ -1,0 +1,10 @@
+{
+  "account_id": "ACC2026001",
+  "holder_name": "张伟",
+  "card_number": "6222 **** **** 1234",
+  "card_type": "借记卡",
+  "balance": 37204.56,
+  "currency": "CNY",
+  "open_date": "2020-03-15",
+  "status": "正常"
+}

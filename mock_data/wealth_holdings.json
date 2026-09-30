@@ -1,0 +1,35 @@
+[
+  {
+    "holding_id": "HOLD001",
+    "product_id": "WP001",
+    "product_name": "稳健添利30天",
+    "invest_amount": 40000.0,
+    "current_value": 40712.5,
+    "total_profit": 712.5,
+    "purchase_date": "2026-08-20",
+    "maturity_date": "2026-10-20",
+    "status": "持有中"
+  },
+  {
+    "holding_id": "HOLD002",
+    "product_id": "WP002",
+    "product_name": "安享货币A",
+    "invest_amount": 3800.0,
+    "current_value": 3856.2,
+    "total_profit": 56.2,
+    "purchase_date": "2026-06-15",
+    "maturity_date": "无固定期限",
+    "status": "持有中"
+  },
+  {
+    "holding_id": "HOLD003",
+    "product_id": "WP003",
+    "product_name": "均衡配置180天",
+    "invest_amount": 20000.0,
+    "current_value": 20483.0,
+    "total_profit": 483.0,
+    "purchase_date": "2026-05-10",
+    "maturity_date": "2026-11-06",
+    "status": "持有中"
+  }
+]

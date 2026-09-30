@@ -1,0 +1,178 @@
+[
+  {
+    "id": "TR20260701",
+    "date": "2026-07-06",
+    "time": "10:20",
+    "payee": "李强",
+    "payee_account": "6217 **** **** 8899",
+    "amount": 500.0,
+    "remark": "聚餐AA",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260702",
+    "date": "2026-07-20",
+    "time": "18:00",
+    "payee": "房东刘女士",
+    "payee_account": "6228 **** **** 3355",
+    "amount": 4500.0,
+    "remark": "7月房租",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260801",
+    "date": "2026-08-08",
+    "time": "14:35",
+    "payee": "母亲",
+    "payee_account": "6210 **** **** 2277",
+    "amount": 2000.0,
+    "remark": "生活费",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260802",
+    "date": "2026-08-20",
+    "time": "18:00",
+    "payee": "房东刘女士",
+    "payee_account": "6228 **** **** 3355",
+    "amount": 4500.0,
+    "remark": "8月房租",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260901",
+    "date": "2026-09-10",
+    "time": "09:15",
+    "payee": "同事小王",
+    "payee_account": "6217 **** **** 4411",
+    "amount": 200.0,
+    "remark": "借款归还",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260902",
+    "date": "2026-09-20",
+    "time": "18:00",
+    "payee": "房东刘女士",
+    "payee_account": "6228 **** **** 3355",
+    "amount": 4500.0,
+    "remark": "9月房租",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260928007",
+    "date": "2026-09-28",
+    "time": "17:13",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 100.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260928008",
+    "date": "2026-09-28",
+    "time": "19:49",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 100.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260928009",
+    "date": "2026-09-28",
+    "time": "21:26",
+    "payee": "转三",
+    "payee_account": "未填写",
+    "amount": 10.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260929010",
+    "date": "2026-09-29",
+    "time": "09:37",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 100.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260929011",
+    "date": "2026-09-29",
+    "time": "09:38",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 10.0,
+    "remark": "用户指定金额",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260929012",
+    "date": "2026-09-29",
+    "time": "09:49",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 100.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260929013",
+    "date": "2026-09-29",
+    "time": "09:53",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 100.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260929014",
+    "date": "2026-09-29",
+    "time": "09:54",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 10000.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260929015",
+    "date": "2026-09-29",
+    "time": "16:11",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 100.0,
+    "remark": "",
+    "type": "即时转账",
+    "status": "成功"
+  },
+  {
+    "id": "TR20260929016",
+    "date": "2026-09-29",
+    "time": "16:16",
+    "payee": "张三",
+    "payee_account": "未填写",
+    "amount": 10.0,
+    "remark": "用户指定金额",
+    "type": "即时转账",
+    "status": "成功"
+  }
+]

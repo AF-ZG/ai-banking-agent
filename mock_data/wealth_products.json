@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "WP001",
+    "name": "稳健添利30天",
+    "type": "固定收益类",
+    "risk_level": "R1-低风险",
+    "expected_annual_yield": "2.85%",
+    "min_amount": 1000,
+    "lock_period_days": 30,
+    "description": "主要投资国债、高等级信用债，收益稳健，适合保守型投资者。"
+  },
+  {
+    "product_id": "WP002",
+    "name": "安享货币A",
+    "type": "货币型",
+    "risk_level": "R1-低风险",
+    "expected_annual_yield": "1.95%",
+    "min_amount": 1,
+    "lock_period_days": 0,
+    "description": "T+0灵活申赎，流动性管理首选，收益略高于活期存款。"
+  },
+  {
+    "product_id": "WP003",
+    "name": "均衡配置180天",
+    "type": "混合类",
+    "risk_level": "R3-中风险",
+    "expected_annual_yield": "4.20%",
+    "min_amount": 10000,
+    "lock_period_days": 180,
+    "description": "股债均衡配置，追求中长期稳健增值，适合平衡型投资者。"
+  },
+  {
+    "product_id": "WP004",
+    "name": "进取成长一年期",
+    "type": "权益类",
+    "risk_level": "R4-中高风险",
+    "expected_annual_yield": "6.80%",
+    "min_amount": 50000,
+    "lock_period_days": 365,
+    "description": "重点投资优质成长股，波动较大，适合进取型投资者。"
+  },
+  {
+    "product_id": "WP005",
+    "name": "黄金挂钩90天",
+    "type": "结构性",
+    "risk_level": "R2-中低风险",
+    "expected_annual_yield": "1.5%~5.2%",
+    "min_amount": 5000,
+    "lock_period_days": 90,
+    "description": "收益与黄金价格挂钩，保本浮动收益型结构产品。"
+  }
+]
