@@ -105,14 +105,14 @@ main.py（FastAPI :8000）
 
 ```
 ├── index.html            # 前端页面（纯 HTML/CSS/JS，fetch 调用后端）
-├── main.py               # Agent Web API 入口（FastAPI :8000）
-├── mock_bank.py          # 模拟银行服务（FastAPI :8001，16 个 REST 接口）
+├── main.py               # Agent Web API 入口
+├── mock_bank.py          # 模拟银行服务
 ├── requirements.txt
-├── mock_data/            # 假数据（8 个 JSON 文件）
+├── mock_data/            # 模拟数据（8 个 JSON 文件）
 ├── src/
 │   ├── agent/            # ReActAgent 核心循环 + 系统提示词
 │   ├── llm/              # 硅基流动 API 客户端
-│   ├── mcp_tools/        # MCP 工具服务器（16 个 @mcp.tool）
+│   ├── mcp_tools/        # MCP 工具服务器
 │   ├── permissions/      # 三色权限路由 + 模糊金额检测
 │   ├── audit/            # JSONL 审计日志
 │   └── config.py         # 密钥加载、路径、风控阈值
@@ -122,4 +122,4 @@ main.py（FastAPI :8000）
 
 ## 免责声明
 
-本项目为竞赛演示原型，全部数据为本地 Mock，不包含任何真实金融接口。请勿用于生产环境。
+本项目为演示原型，全部数据为本地 Mock，不包含任何真实金融接口。请勿用于生产环境。
